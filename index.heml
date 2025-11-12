@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>2025 濟州島 6 日自駕行程總表</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif; line-height: 1.6; }
+        h1 { color: #333; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; vertical-align: top; }
+        th { background-color: #f4f4f4; color: #333; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+       .day-header { background-color: #004a99; color: white; font-size: 1.2em; }
+       .highlight { color: #d90000; font-weight: bold; }
+       .task { color: #0056b3; font-weight: bold; }
+       .meal { color: #505050; font-style: italic; }
+       .location { font-size: 0.9em; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>2025 濟州島 6 日自駕行程總表</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>日期 / 星期</th>
+                <th>時段</th>
+                <th>行程 / 景點 (韓文)</th>
+                <th>關鍵任務 & 專家提醒</th>
+                <th>住宿</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="day-header"><td colspan="5">Day 1 (12/24, 週三) - 東北區：抵達 & 安頓</td></tr>
+            <tr>
+                <td>12/24</td>
+                <td>17:25</td>
+                <td>抵達濟州國際機場 (CJU) - TW688</td>
+                <td></td>
+                <td rowspan="4">Bukchon Re:Member<br><span class="location">(조천읍)</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>18:00 - 19:30</td>
+                <td>入境、提領行李、辦理租車</td>
+                <td><span class="task">導航使用 Naver/Kakao Maps</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>19:30 - 20:15</td>
+                <td>[自駕] 機場 → 飯店</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>20:45</td>
+                <td><span class="meal">晚餐 (朝天邑/新村里地區)</span><br>(예: 조반물)</td>
+                <td>聖誕夜，享用溫暖的在地料理。</td>
+            </tr>
+            <tr class="day-header"><td colspan="5">Day 2 (12/25, 週四) - 東部：日出與探索 (聖誕節)</td></tr>
+            <tr>
+                <td>12/25</td>
+                <td>07:30</td>
+                <td>廣峙其海灘 (광치기해변)</td>
+                <td><span class="highlight">獨門景點：在此拍城山日出峰的日出 ，不要爬山。</span></td>
+                <td rowspan="5">Bukchon Re:Member<br><span class="location">(조천읍)</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>08:30</td>
+                <td>涉地可支 (섭지코지)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>10:00</td>
+                <td>Classic Stationery</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>11:30</td>
+                <td><span class="meal">午餐：Jongdal Sudatteul (종달수다뜰)</span> </td>
+                <td>位於鍾達里區域。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>13:30</td>
+                <td>Snoopy Garden (스누피가든) </td>
+                <td><span class="task">聖誕節正常營業 ，預計人多。</span></td>
+            </tr>
+            <tr class="day-header"><td colspan="5">Day 3 (12/26, 週五) - 南移：麵包、山茶花與瀑布</td></tr>
+            <tr>
+                <td>12/26</td>
+                <td>07:30</td>
+                <td>飯店 Check-out</td>
+                <td></td>
+                <td rowspan_7">金菊西歸浦海洋飯店<br><span class="location">(서귀포시)</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>08:00</td>
+                <td>London Bagel Museum (런던 베이글 뮤지엄) </td>
+                <td><span class="highlight">行程優化：08:00  開門即到，最高效。</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>09:30</td>
+                <td>[自駕] 北 → 南</td>
+                <td><span class="highlight">安全警告：請使用 1132 號東海岸公路，嚴禁穿越中央山區 。</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>11:00</td>
+                <td>山茶花之丘 (카멜리아힐) </td>
+                <td>12 月為最佳觀賞期 。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>13:00</td>
+                <td><span class="meal">午餐：UDA Caffe and Brunch</span> </td>
+                <td>位於安德面，作為早午餐。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>14:30</td>
+                <td>濟州 Ae-in 柑橘園 (제주에인감귤밭) </td>
+                <td>柑橘採摘體驗 。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>16:30</td>
+                <td>飯店 Check-in & 正房瀑布 (정방폭포) </td>
+                <td><span class="task">晚餐後，務必預訂 Day 4 的馬羅島船票 ！</span></td>
+            </tr>
+            <tr class="day-header"><td colspan="5">Day 4 (12/27, 週六) - 西南：馬羅島遠征與北上</td></tr>
+            <tr>
+                <td>12/27</td>
+                <td>09:00</td>
+                <td>[自駕] 飯店 Check-out → 雲進港 (운진항)</td>
+                <td><span class="task">前往馬羅島必須在雲進港搭船 。</span></td>
+                <td rowspan="5">濟州Glad Maison飯店<br><span class="location">(제주시)</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>09:40</td>
+                <td>搭乘船班前往馬羅島 (마라도) </td>
+                <td>使用 Day 3 預訂的船票 。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>11:00</td>
+                <td><span class="meal">午餐：元祖馬羅島海鮮炸醬麵</span> [1, 7]</td>
+                <td>島上炸醬麵對決 。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>14:30</td>
+                <td>搭乘船班返回雲進港</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>15:15</td>
+                <td>[自駕] (長途) 雲進港 → 濟州市飯店</td>
+                <td><span class="meal">晚餐：黑豬肉 (숙성도/흑돈가/강촌) 。</span></td>
+            </tr>
+            <tr class="day-header"><td colspan="5">Day 5 (12/28, 週日) - 西區：動感、童趣與購物</td></tr>
+            <tr>
+                <td>12/28</td>
+                <td>10:00</td>
+                <td>9.81 Park </td>
+                <td><span class="task">使用預訂的場次。</span></td>
+                <td rowspan="5">濟州Glad Maison飯店<br><span class="location">(제주시)</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>12:00</td>
+                <td>S BLEND 動物牧場 (s blend 동물목장) </td>
+                <td>位於涯月，與 9.81 Park 鄰近。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>13:30</td>
+                <td><span class="meal">午餐：Noraba (노라바)</span> </td>
+                <td>涯月海鮮拉麵。 <span class="highlight">注意：12 月戶外座位極冷。</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>15:00</td>
+                <td>小熊軟糖歡樂世界 (Haribo Happy World) </td>
+                <td>全年無休，19:00 關門 。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>17:00</td>
+                <td>新羅 & 樂天免稅店 </td>
+                <td><span class="highlight">時間陷阱：務必 17:00 先去新羅 ，再去樂天 。</span></td>
+            </tr>
+            <tr class="day-header"><td colspan="5">Day 6 (12/29, 週一) - 市區：告別巡禮與返程</td></tr>
+            <tr>
+                <td>12/29</td>
+                <td>09:00</td>
+                <td>飯店 Check-out (行李上車)</td>
+                <td></td>
+                <td rowspan="6">返程 (LJ763 22:15)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>09:30</td>
+                <td>市區咖啡 & 麵包巡禮 </td>
+                <td><span class="task">Stop 1: Coffee Temple </span><br><span class="task">Stop 2: Odeurang Bakery</span><br><span class="task">Stop 3: Abebe Bakery / Umu</span></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>12:00</td>
+                <td>七星街 (칠성로쇼핑타운) </td>
+                <td>舊城區購物。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>13:30</td>
+                <td><span class="meal">午餐：Gihoe Hwae Jib (기회횟집)</span> </td>
+                <td>或選擇機場附近的熱食 (如湯飯)。</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>19:45</td>
+                <td>[自駕] 前往機場還車</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>22:15</td>
+                <td>搭乘真航空 LJ763 (CJU) 返台 </td>
+                <td>旅途愉快。</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
